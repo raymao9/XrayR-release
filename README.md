@@ -1,7 +1,7 @@
-# XRayR
+# XrayR
 A Xray backend framework that can easily support many panels.
 
-一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接 The scripts in this repository point to Mtoly/XrayRbackup
+一个/基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接 The scripts in this repository point to Mtoly/XrayRbackup
 
 Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-project/XrayR)
 
@@ -12,7 +12,7 @@ Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-projec
 # 一键安装
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Mtoly/XrayR-release/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/raymao9/XrayR-release/master/install.sh)
 ```
 # Docker 安装
 
